@@ -16,4 +16,4 @@ Analysis is incomplete and fails to compute properly.
 I was unsuccessful in debugging my own code and unable to fix the value duplication.
 
 ## Results
-Epic fail.
+Epic fail on submitting my project work. However I did learn that this type of work is in high demand in my immediate area and surrounding counties.
