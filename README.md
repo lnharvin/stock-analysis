@@ -6,14 +6,22 @@ Determine whether refactoring previous activity code successfully made the VBA s
 ### Purpose:
 Successfully refactor VBA script code.
 
-## Analysis And Challenges
-I did not allocate enough time to complete this challenge. This was an epic failure for me. My code is duplicating it's values after reaching the second inner loop.
+## Analysis
 
-### Analysis Of Outcomes Based On Goals
-Analysis is incomplete and fails to compute properly.
+### 2017
+![2017 Processing Time](https://github.com/lnharvin/stock-analysis/blob/main/VBA_Challenge_2017.png)
+
+### 2017 Stock Results
+![2017 Stock Results](https://github.com/lnharvin/stock-analysis/blob/main/VBA_Challenge_2017_Results.png)
+
+### 2018
+![2018 Processing Time](https://github.com/lnharvin/stock-analysis/blob/main/VBA_Challenge_2018.png)
+
+### 2018 Stock Results
+![2018 Processing Time](https://github.com/lnharvin/stock-analysis/blob/main/VBA_Challenge_2018_Results.png)
 
 ### Challenges And Difficulties Encountered
-I was unsuccessful in debugging my own code and unable to fix the value duplication.
+VBS is a lot more involved than I gave it credit for. Here it is week 13 of the course I'm just getting back to cleaning up the mess I made of this project many many weeks ago. I found it more difficult to follow the challenge scripts outline so I went back to my original code and worked forward from them to get the final working results.
 
 ## Results
-Epic fail on submitting my project work. However I did learn that this type of work is in high demand in my immediate area and surrounding counties.
+I was finally successful in refractoring the code. In doing so I was able to confirm that refactoring the code made the process run faster. With beginning times of 0.90625 respectly, reduced to roughly 0.8 seconds. 
